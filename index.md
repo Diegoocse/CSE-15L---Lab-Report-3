@@ -111,3 +111,5 @@ The user argument in find searches for files based on ownership. For example, -u
 
 
 Along with each option/mode you show, cite your source for how you found out about it as a URL or a description of where you found it. See the syllabus on Academic Integrity and how to cite sources like ChatGPT for this class.
+
+For the grep commands The prompt that I gave ChatGpt was "what are 4 different examples of comand-line arguments using grep?" the output that it have me were those 4 unique command-line options
