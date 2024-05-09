@@ -96,7 +96,8 @@ The type command line argument in find is used to filter files based on their ty
         -`./directory/empty_dir
           ./directory/subdirectory/another_empty_dir `
 The empty argument in find locates empty files and directories, useful for decluttering and saving space. For instance, -type f -empty finds empty files, and -type d -empty locates empty directories, aiding in structure management and cleanup.
-    User command line argument:
+
+User command line argument:
       -First example` find /home/user1/ -user user1 `
         Output:` /home/user1/file1.txt
                   /home/user1/file2.txt`
